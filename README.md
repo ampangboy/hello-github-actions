@@ -1,4 +1,4 @@
-[![Build Status][build-badge]][build]
+![Build Status][build-badge][build]
 
 ## Welcome to "Hello World" with GitHub Actions
 
