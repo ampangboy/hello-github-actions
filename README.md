@@ -1,4 +1,4 @@
-/github/workflow/status/:user/:repo/:workflow
+[![Build Status][build-badge]][build]
 
 ## Welcome to "Hello World" with GitHub Actions
 
